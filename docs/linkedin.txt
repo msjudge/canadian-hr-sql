@@ -1,0 +1,27 @@
+A closed requisition does not necessarily mean a ready employee.
+
+My work across recruitment, onboarding and HRIS has made me interested in what happens between those two milestones: access provisioning, equipment availability, orientation and the handoffs between HR, IT and hiring managers.
+
+For my first independent Canadian HR research study, I built the Onboarding Readiness Observatory to examine that gap using synthetic Ontario/B.C. records.
+
+My question was: when could HR actually verify readiness—and would an earlier handoff justify an operational pilot?
+
+I used SQL to reconstruct the evidence available at each reporting cutoff, select the latest task revisions and retain hires whose readiness remained unresolved. I then counted overlapping prerequisite waits once per person-day, rather than adding them together.
+
+At the September cutoff:
+• 299 hires had started.
+• 43 had unverified readiness (14.4%).
+• The model recorded 3,947 unready weekdays.
+
+The early-handoff cohort averaged 0.813 fewer unready days over a common 20-operating-day window. But the illustrative 95% interval crossed zero (−0.559 to 2.046 days). I would use that result to design a prospective HR–IT pilot, not to claim that the intervention worked.
+
+The visual walkthrough follows the work end to end: source schema → revision-aware SQL → result grid → management dashboard → research interpretation. Three diagrams created in DrawSQL explain the implemented schema, the evidence-arrival clock and the count-once rule.
+
+All study records and cost assumptions are synthetic. I developed the project with AI assistance; SQLite was executed and reconciled against an independent weekday calculation. The Workbench-style interface is a browser replica. Salary exposure is a planning proxy, not a measured business loss.
+
+Dashboard, research report and reproducible source:
+https://msjudge.github.io/canadian-hr-sql/
+
+Manvir Singh Judge | HR Operations · HRIS · People Analytics
+
+#PeopleAnalytics #HRIS #SQL #Onboarding #CanadianHR

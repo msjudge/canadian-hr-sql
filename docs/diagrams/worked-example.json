@@ -1,0 +1,100 @@
+{
+  "label": "Separate synthetic teaching fixture; not an observation from the 300-hire study",
+  "task_events": [
+    [
+      1,
+      "access-01",
+      "DEMO-01",
+      "access",
+      "2026-09-14",
+      "2026-09-14",
+      "complete"
+    ],
+    [
+      2,
+      "orientation-01",
+      "DEMO-01",
+      "orientation",
+      "2026-09-16",
+      "2026-09-16",
+      "complete"
+    ],
+    [
+      3,
+      "equipment-01",
+      "DEMO-01",
+      "equipment",
+      null,
+      "2026-09-14",
+      "pending"
+    ],
+    [
+      4,
+      "equipment-01",
+      "DEMO-01",
+      "equipment",
+      "2026-09-17",
+      "2026-09-17",
+      "complete"
+    ],
+    [
+      5,
+      "equipment-01",
+      "DEMO-01",
+      "equipment",
+      null,
+      "2026-09-18",
+      "pending"
+    ],
+    [
+      6,
+      "equipment-01",
+      "DEMO-01",
+      "equipment",
+      "2026-09-19",
+      "2026-09-21",
+      "complete"
+    ]
+  ],
+  "results": [
+    {
+      "as_of": "2026-09-17",
+      "hire_id": "DEMO-01",
+      "province": "ON",
+      "role": "Analyst",
+      "arm": "usual",
+      "start_date": "2026-09-14",
+      "ready_date": "2026-09-17",
+      "time_to_accept_calendar_days": 19,
+      "observed_unready_workdays": 3,
+      "right_censored": 0,
+      "salary_exposure_cad": 900.0
+    },
+    {
+      "as_of": "2026-09-18",
+      "hire_id": "DEMO-01",
+      "province": "ON",
+      "role": "Analyst",
+      "arm": "usual",
+      "start_date": "2026-09-14",
+      "ready_date": null,
+      "time_to_accept_calendar_days": 19,
+      "observed_unready_workdays": 5,
+      "right_censored": 1,
+      "salary_exposure_cad": 1500.0
+    },
+    {
+      "as_of": "2026-09-21",
+      "hire_id": "DEMO-01",
+      "province": "ON",
+      "role": "Analyst",
+      "arm": "usual",
+      "start_date": "2026-09-14",
+      "ready_date": "2026-09-19",
+      "time_to_accept_calendar_days": 19,
+      "observed_unready_workdays": 5,
+      "right_censored": 0,
+      "salary_exposure_cad": 1500.0
+    }
+  ]
+}

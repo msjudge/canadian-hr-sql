@@ -1,0 +1,25 @@
+erDiagram
+    hire ||--o{ task_event : "has exported revisions"
+    hire {
+        TEXT hire_id PK
+        TEXT province
+        TEXT role
+        TEXT arm
+        TEXT opened_date
+        TEXT accepted_date
+        TEXT start_date
+        INTEGER annual_salary_cad
+    }
+    task_event {
+        INTEGER row_id PK
+        TEXT event_id
+        TEXT hire_id FK
+        TEXT task
+        TEXT effective_date "nullable"
+        TEXT recorded_date
+        TEXT state
+    }
+    calendar {
+        TEXT day PK
+        INTEGER is_operating_day
+    }
