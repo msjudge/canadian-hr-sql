@@ -1,4 +1,4 @@
-# Onboarding Readiness Observatory
+# Beyond Time-to-Fill: Onboarding Readiness and HR–IT Handoffs
 ## The vacancy that survives the hire
 
 **Manvir Singh Judge** · HR Operations · HRIS · People Analytics  

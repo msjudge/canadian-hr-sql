@@ -1,4 +1,4 @@
-# Onboarding Readiness Observatory — LinkedIn launch kit
+# Beyond Time-to-Fill: Onboarding Readiness and HR–IT Handoffs — LinkedIn launch kit
 
 Publishing note: these URLs are planned destinations, not verified live sites. Publish the matching repository first, open its Pages URL, then copy only the post below. Do not present the browser replicas as native vendor execution.
 
@@ -8,7 +8,7 @@ A closed requisition does not necessarily mean a ready employee.
 
 My work across recruitment, onboarding and HRIS has made me interested in what happens between those two milestones: access provisioning, equipment availability, orientation and the handoffs between HR, IT and hiring managers.
 
-For my first independent Canadian HR research study, I built the Onboarding Readiness Observatory to examine that gap using synthetic Ontario/B.C. records.
+For my first independent Canadian HR research study, I developed “Beyond Time-to-Fill: Onboarding Readiness and HR–IT Handoffs” to examine that gap using synthetic Ontario/B.C. records.
 
 My question was: when could HR actually verify readiness—and would an earlier handoff justify an operational pilot?
 
@@ -34,7 +34,7 @@ Manvir Singh Judge | HR Operations · HRIS · People Analytics
 
 ## Project entry
 
-**Title:** Onboarding Readiness Observatory | Canadian HR SQL Research
+**Title:** Beyond Time-to-Fill: Onboarding Readiness and HR–IT Handoffs
 
 **Author:** Manvir Singh Judge
 

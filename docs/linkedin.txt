@@ -2,7 +2,7 @@ A closed requisition does not necessarily mean a ready employee.
 
 My work across recruitment, onboarding and HRIS has made me interested in what happens between those two milestones: access provisioning, equipment availability, orientation and the handoffs between HR, IT and hiring managers.
 
-For my first independent Canadian HR research study, I built the Onboarding Readiness Observatory to examine that gap using synthetic Ontario/B.C. records.
+For my first independent Canadian HR research study, I developed “Beyond Time-to-Fill: Onboarding Readiness and HR–IT Handoffs” to examine that gap using synthetic Ontario/B.C. records.
 
 My question was: when could HR actually verify readiness—and would an earlier handoff justify an operational pilot?
 
