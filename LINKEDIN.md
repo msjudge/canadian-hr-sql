@@ -1,6 +1,6 @@
 # Beyond Time-to-Fill: Onboarding Readiness and HR–IT Handoffs — LinkedIn launch kit
 
-Publishing note: these URLs are planned destinations, not verified live sites. Publish the matching repository first, open its Pages URL, then copy only the post below. Do not present the browser replicas as native vendor execution.
+Publishing note: GitHub and the live dashboard are published. The study is listed in LinkedIn Projects and Featured. Feed copy below is a draft; check the publication record before scheduling or posting.
 
 ## Final first-person post
 
